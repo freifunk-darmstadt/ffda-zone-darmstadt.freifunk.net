@@ -18,4 +18,4 @@ ns2	IN	A 	78.47.64.91
 @			IN	A	176.221.46.85 
 wiki			IN	A	78.47.64.91
 
-darmstadt.freifunk.net.	IN	MX	10	mail.linuxlounge.net
+darmstadt.freifunk.net.	IN	MX	10	mail.linuxlounge.net.
