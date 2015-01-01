@@ -1,7 +1,7 @@
 $TTL 3600
 
 darmstadt.freifunk.net.  IN  SOA  ns1.darmstadt.freifunk.net.  info.darmstadt.freifunk.net. (
-                2014111701 ;   Serial - date by convention
+                2015010101 ;   Serial - date by convention
                 10800      ;   Refresh
                 600	   ;   Retry
                 604800     ;   Expire
@@ -19,6 +19,9 @@ gw01	IN	A	78.47.64.91
 gw02	IN	A	5.199.142.236
 gw03	IN	A	46.252.25.132
 gw04	IN	A	130.83.198.1
+
+gw01	IN	AAAA	2a01:4f8:d16:1fc5::2
+gw04	IN	AAAA	2001:41b8:83f:4242::ffda
 
 gw01.icvpn	IN	A	5.199.142.236
 gw02.icvpn	IN	A	130.83.198.1
