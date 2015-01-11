@@ -24,7 +24,8 @@ gw01.icvpn	IN	A	5.199.142.236
 gw02.icvpn	IN	A	130.83.198.1
 
 @			IN	A	176.221.46.85 
-wiki			IN	A	78.47.64.91
-map			IN	A	130.83.198.1
+chat			IN	CNAME	gw01
+wiki			IN	CNAME	gw01
+map			IN	CNAME	gw04
 
 darmstadt.freifunk.net.	IN	MX	10	mail.linuxlounge.net.
