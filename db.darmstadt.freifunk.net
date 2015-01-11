@@ -1,7 +1,7 @@
 $TTL 3600
 
 darmstadt.freifunk.net.  IN  SOA  ns1.darmstadt.freifunk.net.  info.darmstadt.freifunk.net. (
-                2015010102 ;   Serial - date by convention
+                2015011101 ;   Serial - date by convention
                 10800      ;   Refresh
                 600	   ;   Retry
                 604800     ;   Expire
